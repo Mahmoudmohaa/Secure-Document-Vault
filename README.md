@@ -169,7 +169,7 @@ The project includes a security demonstration using Wireshark to compare:
 ## 1. Clone Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/SecureVault.git
+git clone https://github.com/Mahmoudmohaa/Secure-Document-Vault.git
 ```
 
 > Replace the link above with your GitHub repository link.
